@@ -20,4 +20,6 @@
 ### Covid-19 Dataset
 
 1. ReCOVery: A Multimodal Repository for COVID-19 News Credibility Research (CIKM 2020)
-2. CORD-19: The COVID-19 Open Research Dataset (ACL workshop 2020)
+    * Paper: https://dl.acm.org/doi/10.1145/3340531.3412880
+3. CORD-19: The COVID-19 Open Research Dataset (ACL workshop 2020)
+    * Paper: https://arxiv.org/abs/2004.10706
