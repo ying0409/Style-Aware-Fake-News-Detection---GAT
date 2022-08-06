@@ -1,5 +1,9 @@
 # Style-Aware-Fake-News-Detection---GAT
 
+### GAT (pytorch)
+* Paper: https://arxiv.org/abs/1710.10903
+* Code: https://github.com/Diego999/pyGAT
+
 ### Baseline
 1. Capturing the Style of Fake News
     * Paper: https://ojs.aaai.org/index.php/AAAI/article/view/5386
